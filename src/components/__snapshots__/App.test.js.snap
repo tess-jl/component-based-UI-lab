@@ -3,6 +3,90 @@
 exports[`App component renders App 1`] = `
 <Fragment>
   <Header />
+  <div
+    className="listDiv"
+  >
+    <Character
+      description="id: 2 - created 2 years ago"
+      gender="Male"
+      image="/path/image"
+      lastLocation="Earth (Replacement Dimension)"
+      name="Morty"
+      origin="Earth (C-137)"
+      species="Human"
+      status="Alive"
+    />
+    <Character
+      description="id: 71 - created 2 years ago"
+      gender="Unknown"
+      image="/path/image"
+      lastLocation="Earth (C-137)"
+      name="Conroy"
+      origin="Earth (Replacement Dimension)"
+      species="Robot"
+      status="Dead"
+    />
+    <Character
+      description="id: 87 - created 2 years ago"
+      gender="Female"
+      image="/path/image"
+      lastLocation="Zigerian's base"
+      name="Cynthia"
+      origin="unknown"
+      species="Alien, Zigerian"
+      status="Dead"
+    />
+    <Character
+      description="id: 361 - created 2 years ago"
+      gender="Male"
+      image="/path/image"
+      lastLocation="Earth (Replacement Dimension)"
+      name="Toxic Rick"
+      origin="Detoxifier"
+      species="Humanoid, Rick's toxic side"
+      status="Dead"
+    />
+    <Character
+      description="id: 40 - created 2 years ago"
+      gender="Female"
+      image="/path/image"
+      lastLocation="Nuptia 4"
+      name="Beth's Mytholog"
+      origin="Nuptia 4"
+      species="Mytholog"
+      status="Dead"
+    />
+    <Character
+      description="id: 487 - created 2 years ago"
+      gender="Male"
+      image="/path/image"
+      lastLocation="Citadel of Ricks"
+      name="Visor Rick"
+      origin="unknown"
+      species="Human"
+      status="Dead"
+    />
+    <Character
+      description="id: 489 - created 2 years ago"
+      gender="Male"
+      image="/path/image"
+      lastLocation="Citadel of Ricks"
+      name="P-coat Rick"
+      origin="unknown"
+      species="Human"
+      status="Dead"
+    />
+    <Character
+      description="id: 479 - created 2 years ago"
+      gender="Male"
+      image="/path/image"
+      lastLocation="Citadel of Ricks"
+      name="Private Sector Rick"
+      origin="unknown"
+      species="Human"
+      status="Dead"
+    />
+  </div>
   <Footer />
 </Fragment>
 `;
